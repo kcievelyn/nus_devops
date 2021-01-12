@@ -1,4 +1,4 @@
-# This is a test repository
+# this is a test repository
 
 ## this text will be smaller
 
@@ -9,6 +9,7 @@ Dummy text
 * more git 
 * more git 
 * homework list
+* catch up on lecture videos
 
 ![](aeroplane.jpg)
 
