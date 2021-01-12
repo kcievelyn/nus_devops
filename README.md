@@ -9,7 +9,7 @@ Dummy text
 * more git 
 * more git 
 * homework list
-* catch up on lecture videos
+* catch up on lectures
 
 ![](aeroplane.jpg)
 
