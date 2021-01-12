@@ -1,4 +1,4 @@
-# This is a test repositori=y
+# This is a test repository
 
 ## this text will be smaller
 
