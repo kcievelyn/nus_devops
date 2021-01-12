@@ -14,3 +14,5 @@ Dummy text
 ![](aeroplane.jpg)
 
 ![](https://raw.githubusercontent.com/kcievelyn/nus_devops/7bbadd355c02798ff85a2cdf6142140fef65133f/aeroplane.jpg)
+
+Testing Cloud Shell Editor
